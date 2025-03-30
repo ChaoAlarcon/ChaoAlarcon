@@ -2,9 +2,10 @@
 # 🤩 Hey, I'm Chao!
 Currently, I am a student of Web Application Development (DAW) at Instituto Nebrija, where I am acquiring a solid foundation in HTML, CSS, JavaScript, SQL, and Java. My passion for technology drives me to create innovative and functional web solutions, combining my technical skills with my creativity.<br><br>I have over 5 years of experience in Adobe tools (Photoshop, Premiere Pro, After Effects, and Lightroom), which allows me to complement my projects with attractive and high-quality visual content.<br><br>Furthermore, my fluency in Spanish, English, and Chinese facilitates communication and teamwork in multicultural environments. I am a proactive person with excellent communication skills and a team-oriented mindset.
 
+[![Chao Alarcón artistic portfolio](https://img.shields.io/badge/Visita_mi_portafolio-0000FF?style=for-the-badge)](https://chaoalarcon.myportfolio.com/)
+
 
 ## 🌐 Socials:
-[![Visita mi portafolio](https://img.shields.io/badge/Visita_mi_portafolio-0000FF?style=for-the-badge)](https://chaoalarcon.myportfolio.com/)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/gunplus03) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/828294526581997628) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chao-alarc%C3%B3n/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ChaoChelo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chaoalarcon01@gmail.com) [![An image of @chaoalarcon's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chaoalarcon)](https://holopin.io/@chaoalarcon) 
 
 # 💻 Tech Skills:
