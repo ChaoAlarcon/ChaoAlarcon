@@ -2,7 +2,8 @@
 # 🤩 Hey, I'm Chao!
 Currently, I am a student of Web Application Development (DAW) at Instituto Nebrija, where I am acquiring a solid foundation in HTML, CSS, JavaScript, SQL, and Java. My passion for technology drives me to create innovative and functional web solutions, combining my technical skills with my creativity.<br><br>I have over 5 years of experience in Adobe tools (Photoshop, Premiere Pro, After Effects, and Lightroom), which allows me to complement my projects with attractive and high-quality visual content.<br><br>Furthermore, my fluency in Spanish, English, and Chinese facilitates communication and teamwork in multicultural environments. I am a proactive person with excellent communication skills and a team-oriented mindset.
 
-[![Chao Alarcón artistic portfolio](https://img.shields.io/badge/Visita_mi_portafolio-0000FF?style=for-the-badge)](https://chaoalarcon.myportfolio.com/)
+[![Chao Alarcón artistic portfolio](https://img.shields.io/badge/Chao_Alarcón_artistic_portfolio-4c1f4c?style=for-the-badge)](https://chaoalarcon.myportfolio.com/)
+
 
 
 ## 🌐 Socials:
