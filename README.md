@@ -15,7 +15,7 @@ Currently, I am a student of Web Application Development (DAW) at Instituto Nebr
 
 # 📊 GitHub Stats:
 ![Throphy_stats](https://github-profile-trophy.vercel.app/?username=ChaoAlarcon&theme=)
-![Profile_details_card](https://github-readme-activity-graph.vercel.app/graph?username=ChaoAlarcon&theme=github-dark)
+![Profile_details_card](https://github-readme-activity-graph.vercel.app/graph?username=ChaoAlarcon&theme=arctic)
 ![](https://github-readme-stats.vercel.app/api?username=ChaoAlarcon&theme=prussian&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ChaoAlarcon&theme=prussian&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaoAlarcon&theme=prussian&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
