@@ -26,3 +26,5 @@ Currently, I am a student of Web Application Development (DAW) at Instituto Nebr
 ---
 [![](https://visitcount.itsvg.in/api?id=ChaoAlarcon&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9ea9932e-63a8-4080-8fc0-8f4ad00b1016" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
