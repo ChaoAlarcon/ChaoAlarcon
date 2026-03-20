@@ -6,7 +6,7 @@ I have over 6 years of experience using Adobe tools such as Photoshop, Premiere 
 
 Additionally, my fluency in Spanish, English, and Chinese enables effective communication and collaboration in multicultural environments. I am a proactive individual with strong communication skills and a team-oriented mindset, always eager to learn and take on new challenges.
 
-[![Chao Alarcón Substack](https://img.shields.io/badge/Chao_Alarcón_substack-FFA500?style=for-the-badge)](https://open.substack.com/pub/chaoyt/p/adobe-vs-alternatives-is-it-worth?r=7wzypo&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
+[![Chao Alarcón Substack](https://img.shields.io/badge/Chao_Alarcón_substack-FF8C00?style=for-the-badge)](https://open.substack.com/pub/chaoyt/p/adobe-vs-alternatives-is-it-worth?r=7wzypo&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 [![Chao Alarcón artistic portfolio](https://img.shields.io/badge/Chao_Alarcón_artistic_portfolio-4c1f4c?style=for-the-badge)](https://chaoalarcon.myportfolio.com/)
 
 
