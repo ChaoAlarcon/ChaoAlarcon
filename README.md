@@ -6,12 +6,13 @@ I have over 6 years of experience using Adobe tools such as Photoshop, Premiere 
 
 Additionally, my fluency in Spanish, English, and Chinese enables effective communication and collaboration in multicultural environments. I am a proactive individual with strong communication skills and a team-oriented mindset, always eager to learn and take on new challenges.
 
+[![Chao Alarcón Substack](https://img.shields.io/badge/Chao_Alarcón_substack-4c1f4c?style=for-the-badge)](https://open.substack.com/pub/chaoyt/p/adobe-vs-alternatives-is-it-worth?r=7wzypo&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 [![Chao Alarcón artistic portfolio](https://img.shields.io/badge/Chao_Alarcón_artistic_portfolio-4c1f4c?style=for-the-badge)](https://chaoalarcon.myportfolio.com/)
 
 
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/gunplus03) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1450964761754730669) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chao-alarc%C3%B3n/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chaoalarcon01@gmail.com) [![Chao Alarcón Substack](https://img.shields.io/badge/Chao_Alarcón_substack-4c1f4c?style=for-the-badge)](https://open.substack.com/pub/chaoyt/p/adobe-vs-alternatives-is-it-worth?r=7wzypo&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/gunplus03) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1450964761754730669) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chao-alarc%C3%B3n/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chaoalarcon01@gmail.com) 
 
 # 💻 Tech Skills:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
