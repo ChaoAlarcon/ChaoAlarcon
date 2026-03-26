@@ -1,10 +1,24 @@
 ### ☀️ Good Morning!
 # 🤩 Hey, I'm Chao!
-Currently, I am a student of Web Application Development (DAW) at Instituto Nebrija, where I am building a solid foundation in HTML, CSS, JavaScript, SQL, Java, Node.js, and React. My passion for technology drives me to develop innovative and functional web solutions that combine technical precision with creativity.
+💻 Web Developer | Higher Technician in Web Application Development | Full Stack Developer
 
-I have over 6 years of experience using Adobe tools such as Photoshop, Premiere Pro, After Effects, and Lightroom, which allows me to enhance my projects with visually appealing and high-quality content.
+🚀 I build functional, scalable web applications with a strong focus on user experience.
 
-Additionally, my fluency in Spanish, English, and Chinese enables effective communication and collaboration in multicultural environments. I am a proactive individual with strong communication skills and a team-oriented mindset, always eager to learn and take on new challenges.
+I have a solid and practical background across multiple technologies:
+🧩 Languages: Java, HTML5/CSS, JavaScript, PHP, Python, C#
+⚙️ Frameworks & Technologies: Angular, React, Node.js, Laravel, Spring
+🗄️ Databases: SQL, MongoDB, Firebase
+
+💡 What sets me apart is my ability to combine development and design. I have over 6 years of experience with Adobe tools (Photoshop, Premiere Pro, After Effects, and Lightroom), allowing me to create digital products that are not only functional but also visually engaging.
+
+🌍 Trilingual: Spanish, English, and Chinese — comfortable working in international and multicultural environments.
+
+📈 Currently seeking opportunities as a Frontend / Fullstack Developer where I can contribute from day one and continue growing professionally.
+
+🧠 Soft skills: teamwork, communication, proactivity, and continuous learning.
+
+🔗 Artistic Portfolio: https://chaoalarcon.myportfolio.com/
+😺 GitHub: https://github.com/ChaoAlarcon
 
 [![Chao Alarcón Substack](https://img.shields.io/badge/Chao_Alarcón_substack-FF8C00?style=for-the-badge)](https://open.substack.com/pub/chaoyt/p/adobe-vs-alternatives-is-it-worth?r=7wzypo&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 [![Chao Alarcón artistic portfolio](https://img.shields.io/badge/Chao_Alarcón_artistic_portfolio-4c1f4c?style=for-the-badge)](https://chaoalarcon.myportfolio.com/)
