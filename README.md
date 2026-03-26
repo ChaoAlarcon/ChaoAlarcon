@@ -17,9 +17,6 @@ I have a solid and practical background across multiple technologies:
 
 🧠 Soft skills: teamwork, communication, proactivity, and continuous learning.
 
-🔗 Artistic Portfolio: https://chaoalarcon.myportfolio.com/
-😺 GitHub: https://github.com/ChaoAlarcon
-
 [![Chao Alarcón Substack](https://img.shields.io/badge/Chao_Alarcón_substack-FF8C00?style=for-the-badge)](https://open.substack.com/pub/chaoyt/p/adobe-vs-alternatives-is-it-worth?r=7wzypo&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 [![Chao Alarcón artistic portfolio](https://img.shields.io/badge/Chao_Alarcón_artistic_portfolio-4c1f4c?style=for-the-badge)](https://chaoalarcon.myportfolio.com/)
 
