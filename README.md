@@ -5,9 +5,9 @@
 🚀 I build functional, scalable web applications with a strong focus on user experience.
 
 I have a solid and practical background across **multiple technologies**:
-- 🧩 Languages: Java, HTML5/CSS, JavaScript, PHP, Python, C#
-- ⚙️ Frameworks & Technologies: Angular, React, Node.js, Laravel, Spring
-- 🗄️ Databases: SQL, MongoDB, Firebase
+- 🧩 *Languages*: Java, HTML5/CSS, JavaScript, PHP, Python, C#
+- ⚙️ *Frameworks & Technologies*: Angular, React, Node.js, Laravel, Spring
+- 🗄️ *Databases*: SQL, MongoDB, Firebase
 
 💡 What sets me apart is my ability to combine **development and design**. I have **over 6 years of experience with Adobe tools** (Photoshop, Premiere Pro, After Effects, and Lightroom), allowing me to create digital products that are not only functional but also visually engaging.
 
