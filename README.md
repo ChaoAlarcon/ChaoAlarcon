@@ -11,7 +11,7 @@ I have a solid and practical background across **multiple technologies**:
 
 💡 What sets me apart is my ability to combine **development and design**. I have **over 6 years of experience with Adobe tools** (Photoshop, Premiere Pro, After Effects, and Lightroom), allowing me to create digital products that are not only functional but also visually engaging.
 
-🌍 **Trilingual**: Spanish, English, and Chinese — comfortable working in international and multicultural environments.
+🌍 **Trilingual: Spanish, English, and Chinese** — comfortable working in international and multicultural environments.
 
 📈 Currently seeking opportunities as a **Frontend / Fullstack Developer** where I can contribute from day one and continue growing professionally.
 
