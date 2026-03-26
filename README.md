@@ -1,6 +1,6 @@
 ### ☀️ Good Morning!
 # 🤩 Hey, I'm Chao!
-💻 Web Developer | Higher Technician in Web Application Development | Full Stack Developer
+# 💻 Web Developer | Higher Technician in Web Application Development | Full Stack Developer
 
 🚀 I build functional, scalable web applications with a strong focus on user experience.
 
