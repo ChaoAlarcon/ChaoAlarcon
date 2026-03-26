@@ -18,7 +18,8 @@ I have a solid and practical background across **multiple technologies**:
 🧠 **Soft skills**: teamwork, communication, proactivity, and continuous learning.
 
 [![Chao Alarcón Substack](https://img.shields.io/badge/Chao_Alarcón_substack-FF8C00?style=for-the-badge)](https://open.substack.com/pub/chaoyt/p/adobe-vs-alternatives-is-it-worth?r=7wzypo&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
-[![Chao Alarcón artistic portfolio](https://img.shields.io/badge/Chao_Alarcón_artistic_portfolio-4c1f4c?style=for-the-badge)](https://chaoalarcon.myportfolio.com/) <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="chaoalarc" data-color="#265e7d" data-emoji="☕"  data-font="Bree" data-text="Buy me a coffee" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+[![Chao Alarcón artistic portfolio](https://img.shields.io/badge/Chao_Alarcón_artistic_portfolio-4c1f4c?style=for-the-badge)](https://chaoalarcon.myportfolio.com/)
+[![Buy me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
 
 
 
